@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=AI%20Engineer%20Minju%20Kang&fontSize=00&animation=fadeIn&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=AI%20Engineer%20Minju%20Kang&fontSize=00&animation=fadeIn&fontColor=#2B2728)
 
 <div align="center"> ## 👩‍💻 AI& Backend Tech Stack</div> <br />
 
