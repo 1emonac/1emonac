@@ -24,7 +24,7 @@
 <br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" width="50"/>
+<img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" width="105"/>
 </div>
 
 <h2 align="center">👾 Cowork Tools</h2>
@@ -36,9 +36,9 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/microsoft%20teams-%236264A7.svg?&style=for-the-badge&logo=microsoft%20teams&logoColor=white" width="50"/>
-<img src="https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" width="50"/>
-<img src="https://img.shields.io/badge/microsoft%20onedrive-%230078D4.svg?&style=for-the-badge&logo=microsoft%20onedrive&logoColor=white" width="50"/>
+<img src="https://img.shields.io/badge/microsoft%20teams-%236264A7.svg?&style=for-the-badge&logo=microsoft%20teams&logoColor=white" width="105"/>
+<img src="https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" width="105"/>
+<img src="https://img.shields.io/badge/microsoft%20onedrive-%230078D4.svg?&style=for-the-badge&logo=microsoft%20onedrive&logoColor=white" width="105"/>
 </div>
 
 <h2 align="center">👩‍💻 About me</h2>
