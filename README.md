@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=AI%20Engineer%20Minju%20Kang&fontSize=50&animation=fadeIn&fontColor=3776AB" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=AI%20Engineer%20Minju%20Kang&fontSize=50&animation=fadeIn&fontColor=1494CC" />
 </p>
 <h2 align="center">👾 AI & Backend Tech Stack</h2>
 <br/>
@@ -38,7 +38,7 @@
 <br/>
 <img src="https://img.shields.io/badge/microsoft%20teams-%236264A7.svg?&style=for-the-badge&logo=microsoft%20teams&logoColor=white" width="105"/>
 <img src="https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" width="105"/>
-<img src="https://img.shields.io/badge/microsoft%20onedrive-%230078D4.svg?&style=for-the-badge&logo=microsoft%20onedrive&logoColor=white" width="105"/>
+<img src="https://img.shields.io/badge/microsoft%20onedrive-%230078D4.svg?&style=for-the-badge&logo=microsoft%20onedrive&logoColor=white" width="110"/>
 </div>
 
 <h2 align="center">👩‍💻 About me</h2>
