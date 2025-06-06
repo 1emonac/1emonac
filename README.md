@@ -53,6 +53,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1emonac&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=1emonac&show_icons=true&theme=transparent"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1emonac&layout=compact)
+
+![1emonac's GitHub stats](https://github-readme-stats.vercel.app/api?username=1emonac&show_icons=true&theme=transparent)
+
 </div>
+
