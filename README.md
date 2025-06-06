@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=I%20am%201emonac&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=I%20am%201emonac&fontSize=00)
 
 <div align="center"> ## 👩‍💻 AI& Backend Tech Stack</div> <br />
 
