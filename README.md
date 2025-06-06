@@ -46,6 +46,9 @@
   <a href="https://www.notion.so/Junior-AI-Engineer-2495ba7cfd6f41978fac4cbcbe1e1d5b?source=copy_link">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" width="80"/>
   </a>
+  <a href="https://www.linkedin.com/in/minjukang207">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="80"/>
+  </a>
   <a href="https://1e-monac.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" width="80"/>
   </a>
