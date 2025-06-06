@@ -13,7 +13,7 @@
 <h2 align="center">👩‍💻 About me</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" width="50"/>
-  <span style="font-size: 10px;">jay.kang2@gmail.com</span>
+  <span style="font-size: 8px;">jay.kang2@gmail.com</span>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80"/>
