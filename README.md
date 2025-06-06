@@ -15,7 +15,9 @@
   <a href="mailto:jay.kang2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" width="80"/>
   </a>
+  <a href="https://1e-monac.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" width="80"/>
+  </a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" width="80"/>
 </div>
 <br/>
