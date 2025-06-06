@@ -1,7 +1,5 @@
-## Hi there 👋
-
-# 👩‍💻 Teck Steck<br />
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 👩‍💻 Teck Steck<br />
+Language |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **1emonac/1emonac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
