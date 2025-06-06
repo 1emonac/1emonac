@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1emonac&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=1emonac&show_icons=true&theme=transparent" width="390"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1emonac&show_icons=true&theme=transparent" width="397"/>
 </div>
 
 
