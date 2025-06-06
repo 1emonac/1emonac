@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=1emonac%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 ## 👩‍💻 Teck Steck<br />
-|Language|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
+
+| Widget    | Description                                    |
+| ---------- | ---------------------------------------------- |
+| Language | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)         |
+
 
 <!--
 **1emonac/1emonac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
