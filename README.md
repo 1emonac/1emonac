@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=1emonac%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=1emonac%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I am%20AI Engineer&fontSize=90)
 
 <div align="center"> ## 👩‍💻 AI& Backend Tech Stack</div> <br />
 
