@@ -18,7 +18,9 @@
   <a href="https://1e-monac.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" width="80"/>
   </a>
+  <a href="https://www.notion.so/Junior-AI-Engineer-2495ba7cfd6f41978fac4cbcbe1e1d5b?source=copy_link">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" width="80"/>
+  </a>
 </div>
 <br/>
 
